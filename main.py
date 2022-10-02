@@ -16,4 +16,4 @@ for i in range (len(sides)):
             s = (p + (p-a)* (p - b)* (p - c) ** ( 1 / 2))
             if s > smax:
                 smax = s
-print(" Triangle maximum Square ", smax)
+print(" Triangle max Square ", smax)
